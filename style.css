@@ -24,7 +24,6 @@ header{
 	height: 100px;
 }
 section{
-	width: 495px;
 	float: left;
 	width: 47%;
 }
@@ -33,11 +32,8 @@ aside{
 	width: 47%;
 	height: 407px;
 }
-footer{
+.clear{
 	clear: both;
-}
-h1{
-
 }
 .container{
 	margin: 0 auto;
